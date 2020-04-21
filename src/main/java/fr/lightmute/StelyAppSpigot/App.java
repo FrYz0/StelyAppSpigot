@@ -6,7 +6,7 @@ public class App extends JavaPlugin {
 
 	//totog
 	public void onEnable() {
-
+		//test
 	}
 	public void onDisable() {
 
