@@ -6,7 +6,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class App extends JavaPlugin {
 
-	//totog
 	public void onEnable() {
 		//test
 		getLogger().log(Level.INFO, "StelyAppSpigot activé !");
