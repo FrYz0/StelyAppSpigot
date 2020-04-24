@@ -8,7 +8,6 @@ public class App extends JavaPlugin {
 
 	
 	public void onEnable() {
-		//test
 		getLogger().log(Level.INFO, "StelyAppSpigot activé !");
 	}
 	public void onDisable() {
