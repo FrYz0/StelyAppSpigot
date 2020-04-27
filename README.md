@@ -1,3 +1,3 @@
 # StelyAppSpigot
 
-This is just a ReadMe.md for tests
+Juste un test de pullrequest sur le projet original
